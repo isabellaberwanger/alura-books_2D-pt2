@@ -76,3 +76,20 @@
 .botões__item {
     margin: 0 0.5em;
 }
+
+@media screen and (win-widhth:1024px) {
+    .carrossel_titulo {
+        font-size: 26px;
+    }
+    .swiper {
+        widht: 60%;
+    }
+    .swiper-pagination {
+        margin: 2em 0 3em 0;
+    }
+    .swiper-buttom-prev.
+    .swiper-buttom-next {
+        display: block;
+        top: 60%
+    }
+}
