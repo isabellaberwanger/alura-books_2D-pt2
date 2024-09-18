@@ -49,4 +49,16 @@
 
 
 @media screen and (min-widht: 1728px) {
+    .banner__pesquisa {
+        widht: 35%;
+    }
+
+    .banner {
+        padding: 6em 0;
+    }
+
+    .banner__pesquisa:placeholder {
+        background-position: 12em;
+    }
+}
     
