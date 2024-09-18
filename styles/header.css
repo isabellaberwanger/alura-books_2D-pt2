@@ -57,6 +57,9 @@
 .container__botao {
     display: none;
 }
+.container_texto{
+    display__none;
+}
 
 @media screen and (min-widht: 1024px) {
 .container__titulo,
@@ -68,4 +71,28 @@
     font-weight: 400;
     display: block;
 }
+.container__titulo-negrito{
+    font-weight: 700 
 }
+
+
+    
+@media screen and (min-width: 178px) {
+    .container__link {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: var(--preto);
+        padding-rigth: 30px;
+    }
+
+    .opções {
+        margin-right: auto;
+    }
+
+    .container__texto {
+        display: block;
+    }
+}
+
+    
