@@ -7,7 +7,7 @@
     background-position: center;
 }
 
-.cabeçalho {
+.cabecalho {
     background-color: var(--branco);
     display: flex;
     justify-content: space-between;
@@ -86,7 +86,7 @@
         padding-rigth: 30px;
     }
 
-    .opções {
+    .opcoes {
         margin-right: auto;
     }
 
